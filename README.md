@@ -1,3 +1,1 @@
-# test
-test gibhub
-hello
+Đây là code quản lý điểm thi vào Bách Khoa
